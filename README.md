@@ -49,6 +49,6 @@ Here are a few examples of how to use the Console Music App:
 
 ## Contributors
 
-The Console Music App was created by [Mr.Abhishek Sachin Dhondalkar](https://github.com/Abhishek-Jain-1925).
+The Console Music App was created by [Mr.Abhishek Sachin Dhondalkar (Fergusson College, Pune.)](https://github.com/Abhishek-Jain-1925).
 
 🎵🎶 Enjoy your music listening experience with the Console Music App! 🎶🎵
