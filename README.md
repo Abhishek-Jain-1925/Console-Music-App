@@ -19,7 +19,7 @@ The Console Music App provides the following features:
 
 To use the Console Music App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Abhishek-Jain-1925/console-music-app.git`
+1. Clone the repository: `[git clone https://github.com/Abhishek-Jain-1925/console-music-app.git](https://github.com/Abhishek-Jain-1925/Console-Music-App.git)`
 2. Navigate to the project directory: `cd console-music-app`
 3. Compile the source code using a C++ compiler: `g++ MusicApp-CircularLinkedList.cpp`
 4. Run the executable: `./a.out`
